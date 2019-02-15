@@ -1,5 +1,5 @@
 # Perceptron-Demonstration
-## Summary: A simple perceptron class I've coded by myself using the numpy and matplotlib libraries.
+## Summary: A simple perceptron class I've coded using the numpy and matplotlib libraries.
 
 ### Goals
 This project's goals included testing my Python class-building abilities, learning some useful Python libraries, and 
